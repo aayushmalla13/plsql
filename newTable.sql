@@ -6,7 +6,7 @@ newDeaths NUMBER(20)
 -------------------------------------------------------------
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('USA', 5772, 56);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Brazil', 0, 0);
-INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('India', 16856, 129);
+INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('India', 16856, 129); 
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Russia', 9088, 336);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('France', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('UK', 3862, 19);
@@ -134,7 +134,7 @@ INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Mauritania', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Eswatini', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Cabo Verde', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('French Guiana', 0, 0);
-INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Réunion', 0, 0);
+INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('RÃ©union', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Tajikistan', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Haiti', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Burkina Faso', 0, 0);
@@ -154,7 +154,7 @@ INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Suriname', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Bahamas', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Trinidad and Tobago', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Martinique', 0, 0);
-INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Curaçao', 0, 0);
+INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('CuraÃ§ao', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Djibouti', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Benin', 0, 0);
 INSERT INTO newcovidInfo(cName,newCases, newDeaths) VALUES('Mongolia', 321, 0);
