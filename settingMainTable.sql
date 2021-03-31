@@ -59,7 +59,7 @@ insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerio
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Georgia',280301,3751,272219,null);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Nepal',276839,3027,272530,null);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Bolivia',269302,12165,217921,71);
-insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Croatia',267222,5893,251237,121);
+insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Croatia',267222,5893,251237,121); 
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Azerbaijan',256201,3491,236151,null);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Greece',254031,7880,214527,728);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Dominican Republic',251983,3304,211044,151);
@@ -138,7 +138,7 @@ insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerio
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Eswatini',17318,666,16389,6);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Cabo Verde',17018,165,16050,23);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('French Guiana',16922,89,9995,6);
-insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Réunion',15561,102,14064,57);
+insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('RÃ©union',15561,102,14064,57);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Tajikistan',13308,90,13218,null);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Haiti',12736,251,10754,null);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Burkina Faso',12673,145,12330,null);
@@ -158,7 +158,7 @@ insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerio
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Bahamas',8935,188,7757,3);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Trinidad and Tobago',7954,142,7590,13);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Martinique',7710,49,98,5);
-insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Curaçao',7335,30,5071,38);
+insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('CuraÃ§ao',7335,30,5071,38);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Djibouti',7249,66,6250,null);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Benin',7100,90,6452,35);
 insert into covidInfo(cName, totalCases, totalDeaths, totalRecovered, totalSerious) values('Mongolia',7014,6,4341,34);
